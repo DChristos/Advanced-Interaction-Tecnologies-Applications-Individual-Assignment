@@ -3,7 +3,7 @@
 ### First and Last Name: Ντουσόπουλος Χρήστος 
 ### University Registration Number: dpsd14074
 ### GitHub Personal Profile: DChristos
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: [url](https://github.com/DChristos/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment)
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: [DChristos](https://github.com/DChristos/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment)
 
 # Introduction
 Στα πλαίσια του μαθήματος Προηγμένες Τεχνολογίες Αλληλεπίδρασης και Εφαρμογές καλούμαστε να ολοκληρώσουμε μια εργασία εξαμήνου στο processing 
